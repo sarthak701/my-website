@@ -2,7 +2,4 @@
 
 This is a really aewsome website.
 
-
-Update using update-readme branch.
-
-
+Updates made on master on Github before rebase.
